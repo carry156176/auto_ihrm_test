@@ -1,0 +1,62 @@
+2020-06-08 10:43:32,779 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:16:52,210 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:20:27,731 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:39:03,597 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:41:21,035 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:42:54,570 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:44:27,802 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:45:22,802 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:45:57,213 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:56:29,913 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 11:57:11,497 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 14:34:44,375 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 14:35:10,991 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 14:36:48,714 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 14:45:12,126 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 18:28:03,736 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 18:28:04,003 INFO [root] [test_emp.py(test_01login_suc:22)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer 9215088f-3237-455f-afab-3124b4ad8aec'}
+2020-06-08 18:28:04,003 INFO [root] [test_emp.py(test_01login_suc:23)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 9215088f-3237-455f-afab-3124b4ad8aec'}
+2020-06-08 18:34:16,159 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 18:34:16,419 INFO [root] [test_emp.py(test_01login_suc:22)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer 554abea9-044d-4066-b365-7aac94de6a16'}
+2020-06-08 19:37:55,597 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 19:38:14,783 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 19:39:23,805 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 19:39:36,644 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 20:12:40,759 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 20:13:46,359 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 20:19:19,152 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 20:20:10,041 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 20:20:10,376 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer a2755919-f466-4265-8467-fcf1517d009d'}
+2020-06-08 20:23:07,251 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 20:23:07,556 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer f595073b-b04b-42a4-9722-64f2379ac93d'}
+2020-06-08 20:24:45,385 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 20:24:45,719 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer 9c1b8b1e-b342-4072-baae-934ea899aaeb'}
+2020-06-08 20:33:22,319 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 20:33:22,670 INFO [root] [test_emp_params.py(test01_login_success:26)] - 登录接口返回的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '94cc2549-80a9-45d8-8979-fa39a8de98e6'}
+2020-06-08 20:33:22,670 INFO [root] [test_emp_params.py(test01_login_success:32)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 94cc2549-80a9-45d8-8979-fa39a8de98e6'}
+2020-06-08 20:33:22,671 INFO [root] [test_emp_params.py(test02_add_emp:43)] - app.HEADERS的值是：{'Content-Type': 'application/json', 'Authorization': 'Bearer 94cc2549-80a9-45d8-8979-fa39a8de98e6'}
+2020-06-08 20:33:22,796 INFO [root] [test_emp_params.py(test02_add_emp:47)] - 添加员工的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-06-08 21:23:20,592 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:23:21,013 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer d3c087a4-3a1e-498f-b485-d9d4a9dff961'}
+2020-06-08 21:28:56,878 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:28:57,176 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer 9b652353-deab-4ead-8afe-4905c5eb92f1'}
+2020-06-08 21:29:28,195 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:29:28,470 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer b1be1498-7b5a-462f-8404-62f00fff0e69'}
+2020-06-08 21:30:57,888 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:30:58,169 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer 6e03c34c-72a9-4f62-93a2-c90129b81cc6'}
+2020-06-08 21:32:32,581 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:32:32,993 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer f91571c2-f68b-4377-b174-8019fe378591'}
+2020-06-08 21:34:43,842 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:46:47,705 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:49:12,941 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:50:24,469 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:50:34,371 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:50:50,224 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:53:04,891 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 21:53:57,323 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 22:14:32,921 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 22:14:33,228 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer 6b78bd45-66d2-4288-b725-80776e9911aa'}
+2020-06-08 22:14:48,034 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 22:14:48,476 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer 66f2b3a4-2f1a-428f-b6f6-d5f6a837f5b1'}
+2020-06-08 22:15:23,953 INFO [root] [__init__.py(<module>:11)] - Test日志会不会打印！！！
+2020-06-08 22:15:24,281 INFO [root] [test_emp_params.py(test_01login_suc:25)] - 把headers保存到全局变量为{'Content-Type': 'application/json', 'Authorization': 'Bearer b70006be-f494-476f-8f12-7411a5f24e32'}
